@@ -1,0 +1,3 @@
+/home/kurisute/projects/CG/assignments/assignment-1/build/CMakeFiles/rebuild_cache.dir
+/home/kurisute/projects/CG/assignments/assignment-1/build/CMakeFiles/computer_graphics_assignment1_bin.dir
+/home/kurisute/projects/CG/assignments/assignment-1/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/computer_graphics_assignment1_bin.dir/source/image_class.cpp.o CMakeFiles/computer_graphics_assignment1_bin.dir/source/main.cpp.o  -o computer_graphics_assignment1_bin 

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kurisute/projects/CG/assignments/assignment-1/include/image_class.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/kurisute/projects/CG/assignments/assignment-1/source/image_class.cpp
+string
+-
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+math.h
+-
+../include/image_class.h
+/home/kurisute/projects/CG/assignments/assignment-1/include/image_class.h
+
+/home/kurisute/projects/CG/assignments/assignment-1/source/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+../include/image_class.h
+/home/kurisute/projects/CG/assignments/assignment-1/include/image_class.h
+

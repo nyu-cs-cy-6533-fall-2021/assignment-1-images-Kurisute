@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/computer_graphics_assignment1_bin.dir/source/image_class.cpp.o CMakeFiles/computer_graphics_assignment1_bin.dir/source/mandatory_task.cpp.o CMakeFiles/computer_graphics_assignment1_bin.dir/source/optional_task.cpp.o  -o computer_graphics_assignment1_bin 

@@ -4,7 +4,8 @@
 #include <sstream>
 #include <vector>
 #include <math.h>
-#include "image_class.h"
+
+#include "../include/image_class.h"
 
 using namespace std;
 
@@ -16,6 +17,7 @@ PPMImage::PPMImage(const string filepath){
     ifstream fin;
     fin.open(filepath, ios::in | ios::binary);
     fin >> *this;
+    fin.close();
 }
 
 
@@ -281,6 +283,7 @@ void PPMImage::operator-=(const PPMImage &image){
 vector<vector<unsigned int> > PPMImage::operator[](const int i){
     return this->data[i];
 }
+
 
 void PPMImage::gamma_correction(const float gamma){
     for(int i = 0;i < this->height;i++){

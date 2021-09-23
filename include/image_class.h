@@ -48,6 +48,8 @@ class PPMImage{
 ostream &operator<<(ostream &os, PPMImage &image);
 istream &operator>>(istream &is, PPMImage &image);
 
+
 PPMImage alpha_composition(PPMImage &foreground,PPMImage &background,float alpha);
+
 
 #endif

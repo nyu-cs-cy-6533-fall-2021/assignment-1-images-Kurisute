@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/kurisute/projects/CG/assignments/assignment-1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/kurisute/projects/CG/assignments/assignment-1/{CMAKE_CURRENT_SOURCE_DIR}/include  -g   -o CMakeFiles/computer_graphics_assignment1_bin.dir/source/image_class.cpp.o -c /home/kurisute/projects/CG/assignments/assignment-1/source/image_class.cpp",
+  "file": "/home/kurisute/projects/CG/assignments/assignment-1/source/image_class.cpp"
+},
+{
+  "directory": "/home/kurisute/projects/CG/assignments/assignment-1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/kurisute/projects/CG/assignments/assignment-1/{CMAKE_CURRENT_SOURCE_DIR}/include  -g   -o CMakeFiles/computer_graphics_assignment1_bin.dir/source/mandatory_task.cpp.o -c /home/kurisute/projects/CG/assignments/assignment-1/source/mandatory_task.cpp",
+  "file": "/home/kurisute/projects/CG/assignments/assignment-1/source/mandatory_task.cpp"
+},
+{
+  "directory": "/home/kurisute/projects/CG/assignments/assignment-1/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/kurisute/projects/CG/assignments/assignment-1/{CMAKE_CURRENT_SOURCE_DIR}/include  -g   -o CMakeFiles/computer_graphics_assignment1_bin.dir/source/optional_task.cpp.o -c /home/kurisute/projects/CG/assignments/assignment-1/source/optional_task.cpp",
+  "file": "/home/kurisute/projects/CG/assignments/assignment-1/source/optional_task.cpp"
+}
+]
