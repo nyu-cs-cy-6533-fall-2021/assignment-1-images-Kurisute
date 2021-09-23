@@ -24,38 +24,38 @@ However, you have to change the project path in main.cpp for your own environmen
 The pre-produced results can be found in the **test_outputs** folder.
 
 ### Overloading of add(+), subtraction(-):
-![add.ppm](test_outputs/add.ppm "add.ppm")
+![add.ppm](sample/add.png "add.ppm")
 
-![sub.ppm](test_outputs/add.ppm "sub.ppm")
+![sub.ppm](sample/sub.png "sub.ppm")
 
 ### Overloading of add-assignment(+=), subtraction-assignment(-=):
-![add_assignment.ppm](test_outputs/add.ppm "add_assignment.ppm")
+![add_assignment.ppm](sample/add_assignment.png "add_assignment.ppm")
 
-![sub_assignment.ppm](test_outputs/add.ppm "sub_assignment.ppm")
+![sub_assignment.ppm](sample/sub_assignment.png "sub_assignment.ppm")
 
 ### Overloading of scale operation(*):
-![scale.ppm](test_outputs/add.ppm "scale.ppm")
+![scale.ppm](sample/scale.png "scale.ppm")
 
 ### Gamma Correction with gamma=2.2
-![gamma.ppm](test_outputs/add.ppm "gamma.ppm")
+![gamma.ppm](sample/gamma.png "gamma.ppm")
 
 ### Alpha Composition with alpha=0.50 and 0.85
-![alpha050.ppm](test_outputs/add.ppm "alpha050.ppm")
+![alpha050.ppm](sample/alpha050.png "alpha050.ppm")
 
-![alpha085.ppm](test_outputs/add.ppm "alpha085.ppm")
+![alpha085.ppm](sample/alpha085.png "alpha085.ppm")
 
 ### Mirror operation on X axis
-![mirror.ppm](test_outputs/add.ppm "mirror.ppm")
+![mirror.ppm](sample/mirror.png "mirror.ppm")
 
 ## Optional Tasks Results
 ### Binaryzation of Mandrill-gray with threshold=100
-![Mandrill_binary.ppm](test_outputs/add.ppm "Mandrill_binary.ppm")
+![Mandrill_binary.ppm](sample/Mandrill_binary.png "Mandrill_binary.ppm")
 
 ### Erosion operation with 5*5 square filter
-![Mandrill_erosion.ppm](test_outputs/add.ppm "Mandrill_erosion.ppm")
+![Mandrill_erosion.ppm](sample/Mandrill_erosion.png "Mandrill_erosion.ppm")
 
 ### Dilation operation with 5*5 square filter
-![Mandrill_dilation.ppm](test_outputs/add.ppm "Mandrill_dilation.ppm")
+![Mandrill_dilation.ppm](sample/Mandrill_dilation.png "Mandrill_dilation.ppm")
 
 ### The final Result: Dilation minus Erosion
-![optional_task_result.ppm](test_outputs/add.ppm "optional_task_result.ppm")
+![optional_task_result.ppm](sample/optional_task_result.png "optional_task_result.ppm")
